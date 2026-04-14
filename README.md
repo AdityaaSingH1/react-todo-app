@@ -28,5 +28,3 @@ It helps users efficiently manage daily tasks with a clean and interactive inter
 - HTML5 & CSS3  
 
 ---
-
-npm run dev
